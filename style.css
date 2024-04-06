@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#message{
+    margin: 10px;
+}
+
+.colorBox{
+width: 100px;
+height: 100px;
+display: inline-block;
+margin: 10px;
+cursor: pointer;
+
+}
